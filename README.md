@@ -22,6 +22,12 @@ https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler
 
 if you are reading this and your art is in this repo, consider telling me so i can either remove it or give credit to you in this description.
 
+                        
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/polluxau/linuxnext-wallpapers.svg?variant=adaptive)](https://starchart.cc/polluxau/linuxnext-wallpapers)
+
+                    
+
 
 
 
