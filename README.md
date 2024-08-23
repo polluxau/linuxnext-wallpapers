@@ -23,7 +23,5 @@ https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler
 if you are reading this and your art is in this repo, consider telling me so i can either remove it or give credit to you in this description.
 
 
-https://github.com/polluxau/linuxnext-wallpapers/blob/main/1066410.jpg
-
 
 
