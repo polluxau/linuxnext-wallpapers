@@ -1,4 +1,4 @@
-This is some of my wallpapers that a decent amount of people contiune to ask in the youtube comments on linuxnext, so here they are :)
+This is some of my wallpapers that a decent amount of people continue to ask in the youtube comments on linuxnext, so here they are :)
 
 i do not own or create these wallpapers
 
