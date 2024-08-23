@@ -1,6 +1,6 @@
 This is some of my wallpapers that a decent amount of people continue to ask in the youtube comments on linuxnext, so here they are :)
 
-i do not own or create these wallpapers
+i do not own this art and use it only for wallpapers on my desktop
 
 i get them from wallhaven with the use of wallpaper-selector
 
@@ -13,6 +13,8 @@ some of these wallpapers are from a artist i know on x/twitter called paji
 https://x.com/artpaji
 
 https://www.inprnt.com/gallery/paji/
+
+if you like his work, consider buying his art :)
 
 i also use upscaler to upscale the images to make them look more higher quality :P
 
