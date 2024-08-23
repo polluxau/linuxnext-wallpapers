@@ -8,7 +8,7 @@ https://flathub.org/apps/io.github.davidoc26.wallpaper_selector
 
 https://wallhaven.cc/
 
-some of these wallpapers are from a artist i know on x/twitter called paji.
+some of these wallpapers are from a artist i know on x/twitter like paji.
 
 https://x.com/artpaji
 
