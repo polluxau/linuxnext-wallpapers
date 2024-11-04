@@ -26,7 +26,16 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/polluxau/linuxnext-wallpapers.svg?variant=adaptive)](https://starchart.cc/polluxau/linuxnext-wallpapers)
 
-https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-3zpzrv.jpg?raw=true
+ABSTRACT
+
+------------------------------------
+
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-3zpzrv.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-4okjdm.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-4x915o.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-4xgwgz.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-g75wvd.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-zywdlv.png)
 
 
 
