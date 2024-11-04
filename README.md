@@ -1,5 +1,7 @@
 These are some of my wallpapers that i have, a decent amount of people continue to ask in the youtube comments on linuxnext, so here they are.
 
+The wallpapers are below👇
+
 I do not own this art and use it only for wallpapers on my desktop.
 
 I get them from wallhaven with the use of wallpaper-selector.
