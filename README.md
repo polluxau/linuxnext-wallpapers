@@ -29,7 +29,6 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/polluxau/linuxnext-wallpapers.svg?variant=adaptive)](https://starchart.cc/polluxau/linuxnext-wallpapers)
 
-------------------------------------
 ## 🔮ABSTRACT🔮
 
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-3zpzrv.jpg)
@@ -40,7 +39,6 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-zywdlv.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/38d6ea1d0c162ffd3c00fbe9233154eaed8a5322/Abstract/wallhaven-yxpkvg.png)
 
--------------------------------------
 
 ## 🎮GAMES🎮
 
@@ -73,7 +71,7 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Games/wallhaven-x63x1v.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/wallhaven-x63zgz.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/wallhaven-zyjy2o.jpg)
------------------------------
+
 ## 🦹‍♀️HERO'S & VILLAIN'S🦹‍♂️
 
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Hero%20%26%20Villains/1066410.jpg)
@@ -104,7 +102,7 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Hero%20%26%20Villains/wallhaven-o5p5dm.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Hero%20%26%20Villains/wallhaven-p9egqj.jpg)
 
----------------------------------------
+
 ## 🖌️ILLUSTRATIONS🖌️
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/faiz-azhar-fallen.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-1pl9ew.png)
@@ -115,13 +113,14 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-jxzvwy.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-kxv9rd.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-qzx2dd.jpg)
---------------------------------------
+
+
 ## ✨PIXEL ART✨
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Pixel%20art/wallhaven-1pzgq9.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Pixel%20art/wallhaven-2yqpdx.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Pixel%20art/wallhaven-kx6ow1.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Pixel%20art/wallhaven-rrljjq.jpg)
------------------------------------------
+
 ## 🚀STARSHIP🚀
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Starship%20%3A%3E/GYhegtsboAAxvh6.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Starship%20%3A%3E/GYhegvVasAAplog.jpg)
@@ -131,7 +130,7 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Starship%20%3A%3E/GZtGkocaAAMoWjp.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Starship%20%3A%3E/GZyUKOGbIAAgmi8.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Starship%20%3A%3E/GaheddqbsAAzGXg.jpg)
-----------------------------------------
+
 ## 🏎️VEHICLES🏎️
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Vehicles/wallhaven-1k6l23.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Vehicles/wallhaven-28qzvm.jpg)
