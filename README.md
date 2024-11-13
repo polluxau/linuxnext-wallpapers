@@ -31,6 +31,7 @@ If you are reading this and your art is in this repo, consider telling me so i c
 
 ## 🔮ABSTRACT🔮
 
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-x6rdvd.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-3zpzrv.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-4okjdm.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-4x915o.jpg)
