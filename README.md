@@ -42,7 +42,7 @@ If you are reading this and your art is in this repo, consider telling me so i c
 
 
 ## 🎮GAMES🎮
-
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/wallhaven-6d8p9w.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/70.68.71.67.72.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Artboard_1.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/ColorWall-l87pjy.jpg)
@@ -75,6 +75,7 @@ If you are reading this and your art is in this repo, consider telling me so i c
 
 ## 🦹‍♀️HERO'S & VILLAIN'S🦹‍♂️
 
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Hero%20%26%20Villains/wallhaven-2ymdrg.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Hero%20%26%20Villains/1066410.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Hero%20%26%20Villains/1360063.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Hero%20%26%20Villains/1360201.png)
