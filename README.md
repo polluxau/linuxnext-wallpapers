@@ -115,6 +115,8 @@ If you are reading this and your art is in this repo, consider telling me so i c
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-jxzvwy.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-kxv9rd.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-qzx2dd.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241128_010450.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241128_010441.jpg)
 
 
 ## ✨PIXEL ART✨
