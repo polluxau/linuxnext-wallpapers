@@ -23,7 +23,7 @@ Some wallpapers from Naka da slacka like Elden ring👇
 
 https://x.com/NSlacka?t=BvhiD60p92jYPiEJOjnCNw&s=09
 
-Some wallpapers from rashuu👇
+Some wallpapers from rashuu like bloodborne art👇
 
 https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09
 
