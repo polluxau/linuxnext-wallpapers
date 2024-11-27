@@ -19,6 +19,15 @@ https://www.inprnt.com/gallery/paji/
 
 If you like his work, consider buying his art :)
 
+Some wallpapers from Naka da slacka like Elden ring👇
+
+https://x.com/NSlacka?t=BvhiD60p92jYPiEJOjnCNw&s=09
+
+Some wallpapers from rashuu👇
+
+https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09
+
+
 I also use upscaler to upscale the images to make them look more higher quality :P
 
 https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler
