@@ -20,8 +20,6 @@
 
 [Paji Store](https://www.inprnt.com/gallery/paji/)
 
-### Naka da slacka
-
 [Naka da slacka](https://x.com/NSlacka?t=BvhiD60p92jYPiEJOjnCNw&s=09)
 
 [Rashuu](https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09)
