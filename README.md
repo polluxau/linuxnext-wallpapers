@@ -1,6 +1,6 @@
 # These are some of my wallpapers that i have, a decent amount of people continue to ask in the youtube comments on linuxnext, so here they are.
 
-🎨🖌️
+# 🎨🖌️
 
 
 ## The wallpapers are below👇
