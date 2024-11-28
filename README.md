@@ -9,32 +9,27 @@
 
 ## I get most of them from wallhaven
 
-https://wallhaven.cc/
+[wallhaven](https://wallhaven.cc/)
 
 ------
 
 ## Some of these wallpapers are from artists i know
 
-### Paji
 
-https://x.com/artpaji
+[Paji](https://x.com/artpaji)
 
-https://www.inprnt.com/gallery/paji/
-
-#### If you like his work, consider buying his art :)
+[Paji Store](https://www.inprnt.com/gallery/paji/)
 
 ### Naka da slacka
 
-https://x.com/NSlacka?t=BvhiD60p92jYPiEJOjnCNw&s=09
+[Naka da slacka](https://x.com/NSlacka?t=BvhiD60p92jYPiEJOjnCNw&s=09)
 
-### Rashuu
-
-https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09
+[Rashuu](https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09)
 
 -------
 ## I also use upscaler to upscale the images 🐧
 
-https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler
+[Upscaler](https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler)
 
 -------
 
