@@ -1,7 +1,7 @@
-## These are some of my wallpapers that i have, a decent amount of people continue to ask in the youtube comments on linuxnext, so here they are.
+# These are some of my wallpapers that i have, a decent amount of people continue to ask in the youtube comments on linuxnext, so here they are.
 
 
-# The wallpapers are below👇
+## The wallpapers are below👇
 
 I do not own this art and use it only for wallpapers on my desktop.
 
@@ -11,7 +11,7 @@ https://flathub.org/apps/io.github.davidoc26.wallpaper_selector
 
 https://wallhaven.cc/
 
-Some of these wallpapers are from a artist i know on x/twitter like paji.
+Some of these wallpapers are from artists i know on x/twitter like paji.
 
 https://x.com/artpaji
 
@@ -32,7 +32,7 @@ I also use upscaler to upscale the images to make them look more higher quality 
 
 https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler
 
-If you are reading this and your art is in this repo, consider telling me so i can either remove it or give credit to you in this description.
+## If you are reading this and your art is in this repo, consider telling me so i can either remove it or give credit to you in this description.
 
                         
 ## Stargazers over time
