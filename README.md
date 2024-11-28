@@ -13,7 +13,7 @@ https://wallhaven.cc/
 
 Some of these wallpapers are from artists i know on x/twitter like paji.
 
-https://x.com/artpaji
+[https://x.com/artpaji]
 
 https://www.inprnt.com/gallery/paji/
 
