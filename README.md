@@ -17,17 +17,19 @@ https://wallhaven.cc/
 
 ## Some of these wallpapers are from artists i know
 
+### Paji
+
 https://x.com/artpaji
 
 https://www.inprnt.com/gallery/paji/
 
 If you like his work, consider buying his art :)
 
-Some wallpapers from Naka da slacka like Elden ring👇
+### Naka da slacka
 
 https://x.com/NSlacka?t=BvhiD60p92jYPiEJOjnCNw&s=09
 
-Some wallpapers from rashuu like bloodborne art👇
+### Rashuu
 
 https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09
 
