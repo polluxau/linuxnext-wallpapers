@@ -7,9 +7,7 @@
 
 ## I do not own this art and use it only for wallpapers on my desktop.
 
-I get them from wallhaven with the use of wallpaper-selector.
-
-https://flathub.org/apps/io.github.davidoc26.wallpaper_selector
+## I get most of them from wallhaven
 
 https://wallhaven.cc/
 
