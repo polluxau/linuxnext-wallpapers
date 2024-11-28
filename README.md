@@ -23,7 +23,7 @@ https://x.com/artpaji
 
 https://www.inprnt.com/gallery/paji/
 
-If you like his work, consider buying his art :)
+#### If you like his work, consider buying his art :)
 
 ### Naka da slacka
 
