@@ -9,7 +9,7 @@
 
 ## I get most of them from wallhaven
 
-[wallhaven](https://wallhaven.cc/)
+[Wallhaven](https://wallhaven.cc/)
 
 ------
 
