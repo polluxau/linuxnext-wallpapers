@@ -84,6 +84,9 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/wallhaven-zyjy2o.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241128_010441.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241128_010450.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241203_201659.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241203_201723.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241203_201736.jpg)
 
 ## 🦹‍♀️HERO'S & VILLAIN'S🦹‍♂️
 
