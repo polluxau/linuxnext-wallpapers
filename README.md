@@ -115,7 +115,8 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Hero%20%26%20Villains/wallhaven-jxoz3m.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Hero%20%26%20Villains/wallhaven-o5p5dm.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Hero%20%26%20Villains/wallhaven-p9egqj.jpg)
-
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Hero%20%26%20Villains/404467b5-5a0d-42fa-960a-8fe35ba99d79.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Hero%20%26%20Villains/680368e3-396a-40d5-a297-014e7eb55409.png)
 
 ## 🖌️ILLUSTRATIONS🖌️
 
