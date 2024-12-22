@@ -24,6 +24,8 @@
 
 [Rashuu](https://x.com/_Rashuu_?t=TO-OaOqnxTZTWO_kM5BPIw&s=09)
 
+[Melospiza0606](https://x.com/melospiza0606?t=J2sH4Vhu-tEmS3LujBDEew&s=09)
+
 -------
 ## I also use upscaler to upscale the images 🐧
 
