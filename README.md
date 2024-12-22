@@ -197,3 +197,8 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/wallhaven-yxgwzk.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/wallhaven-zyjx6v.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/wallhaven-zy29yv.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241222_134131.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134221.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134228.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134259.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134429.jpg)
