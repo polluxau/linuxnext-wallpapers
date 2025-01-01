@@ -13,7 +13,7 @@
 
 ------
 
-## Some of these wallpapers are from artists i know
+## Some of these wallpapers are from artists i follow personally 
 
 
 [Paji](https://x.com/artpaji)
