@@ -50,6 +50,7 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-g75wvd.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-zywdlv.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/38d6ea1d0c162ffd3c00fbe9233154eaed8a5322/Abstract/wallhaven-yxpkvg.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Abstract/wallhaven-jx2rxw.jpg)
 
 
 ## 🎮GAMES🎮
