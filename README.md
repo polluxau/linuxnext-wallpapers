@@ -33,7 +33,7 @@
 
 -------
 
-## If you are reading this and your art is in this repo, consider telling me by opening a issue so i can either remove it or give credit to you in this description :)
+## If you are reading this, and your art is in this repo, consider telling me by opening a issue, so i can either remove it or give credit to you in this description :)
 
 --------
                         
