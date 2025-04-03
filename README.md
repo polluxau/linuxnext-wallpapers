@@ -26,6 +26,8 @@
 
 [Melospiza0606](https://x.com/melospiza0606?t=J2sH4Vhu-tEmS3LujBDEew&s=09)
 
+[Marathon Joseph Cross](https://x.com/josephacross?t=txQlbn47CHc11aJl5XtzsQ&s=09)
+
 -------
 ## I also use upscaler to upscale the images 🐧
 
