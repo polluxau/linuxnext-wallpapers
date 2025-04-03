@@ -141,6 +141,8 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-jxzvwy.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-kxv9rd.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/cc37e9339925e829a3db263cdc70142dd99bea8f/Illustrations/wallhaven-qzx2dd.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Illustrations/wallhaven-5g17z9.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Illustrations/wallhaven-dplw33.jpg)
 
 
 ## ✨PIXEL ART✨
