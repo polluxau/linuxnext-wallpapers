@@ -177,6 +177,10 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/wallhaven-we9vrx.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/wallhaven-vqkvr3.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/wallhaven-2ymw56.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/11835408.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/wallhaven-jxm2e5.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/wp9096556-4k-rally-wallpapers.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Vehicles/wp9330928-rally-4k-wallpapers.jpg)
 
 ## 📱Mobile📱
 
