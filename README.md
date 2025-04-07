@@ -98,6 +98,7 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241222_134203.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241222_134122.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/GnpZoe3aMAQpKSp-1600x670-upscaled.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Gn4vh8nbkAAL1Aj-1999x773-upscaled.png)
 
 ## 🦹‍♀️HERO'S & VILLAIN'S🦹‍♂️
 
