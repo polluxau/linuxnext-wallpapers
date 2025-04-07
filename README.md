@@ -99,6 +99,7 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/20241222_134122.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/GnpZoe3aMAQpKSp-1600x670-upscaled.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Gn4vh8nbkAAL1Aj-1999x773-upscaled.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/keep-those-dacs-handy-the-time-for-pushing-is-almost-upon-us-v0-au8rke5wq0te1.jpeg)
 
 ## 🦹‍♀️HERO'S & VILLAIN'S🦹‍♂️
 
