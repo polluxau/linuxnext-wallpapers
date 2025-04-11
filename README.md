@@ -224,3 +224,5 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134228.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134259.jpg)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20241222_134429.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20250411_135935.jpg)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Mobile/20250411_135926.jpg)
