@@ -100,11 +100,11 @@
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/GnpZoe3aMAQpKSp-1600x670-upscaled.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Gn4vh8nbkAAL1Aj-1999x773-upscaled.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/keep-those-dacs-handy-the-time-for-pushing-is-almost-upon-us-v0-au8rke5wq0te1.jpeg)
-![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Screenshot_20250407_152723-1920x1080-upscaled.png)
-![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Screenshot_20250407_152728-1920x1080-upscaled.png)
-![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Screenshot_20250407_152740-1920x1080-upscaled.png)
-![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Screenshot_20250407_152742-1920x1080-upscaled.png)
-![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/Screenshot_20250407_152751-1-1920x1080-upscaled.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/cat1.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/cat2.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/cat3.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/runnerded.png)
+![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/nocat.png)
 ![screenshot](https://github.com/polluxau/linuxnext-wallpapers/blob/main/Games/9XV1dSy.jpeg)
 
 ## 🦹‍♀️HERO'S & VILLAIN'S🦹‍♂️
